@@ -35,7 +35,7 @@
 
         .slick-arrow {
             position: absolute;
-            background: url('../img/stroke.png') 0 0 / 100% no-repeat;
+            background: url('img/stroke.png') 0 0 / 100% no-repeat;
             transform: rotate(0deg);
             width: 30px;
             height: 55px;
@@ -48,7 +48,7 @@
             &.slick-next {
                 top: 135px;
                 right: 0;
-                background: url('../img/stroke.png') 0 0 / 100% no-repeat;
+                background: url('img/stroke.png') 0 0 / 100% no-repeat;
                 transform: rotate(180deg);
             }
         }
